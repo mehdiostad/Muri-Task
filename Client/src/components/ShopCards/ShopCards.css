@@ -1,0 +1,17 @@
+.shopcards{
+margin: 0 auto;
+justify-content: center;
+}
+.main{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+.main>div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 70px 30px;
+    height: 15rem;
+    width: 15rem;
+    margin: 5px 5px;
+}

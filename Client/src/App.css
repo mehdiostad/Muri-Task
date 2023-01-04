@@ -1,0 +1,9 @@
+.app{
+    display: flex;
+    background: #f9f9f9;
+}
+.app-right{
+  
+    display: flex;
+    flex-direction: column;
+}
